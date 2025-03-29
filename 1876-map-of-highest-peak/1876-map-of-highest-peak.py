@@ -1,5 +1,3 @@
-from collections import deque
-
 class Solution(object):
     def highestPeak(self, isWater):
         m, n = len(isWater), len(isWater[0])
