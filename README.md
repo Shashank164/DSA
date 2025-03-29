@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Shashank164/DSA/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2509-minimize-xor](https://github.com/Shashank164/DSA/tree/master/2509-minimize-xor) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,5 +32,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [2509-minimize-xor](https://github.com/Shashank164/DSA/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Shashank164/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 <!---LeetCode Topics End-->
