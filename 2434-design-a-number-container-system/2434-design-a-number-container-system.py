@@ -15,8 +15,3 @@ class NumberContainers:
 
     def find(self, number):
         return next(iter(self.number_to_indices[number]), -1)
-
-# Example usage:
-# obj = NumberContainers()
-# obj.change(index, number)
-# param_2 = obj.find(number)
