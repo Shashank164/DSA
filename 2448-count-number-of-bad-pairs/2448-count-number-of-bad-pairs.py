@@ -4,12 +4,12 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        n=len(nums)
-        map=defaultdict(int)
-        cntBadPair=(n-1)*n/2
-        for i in range(0, n):
-            val=map[nums[i]-i]
-            cntBadPair-=val
-            map[nums[i]-i]=val+1
-
-        return cntBadPair
+        res=0
+        mp={}
+        for i in range(len(nums)):
+            dif=nums[i]-i
+            if dif in mp:
+                res+=mp[dif]
+            mp[dif]=mp.get(dif,0)+1
+        total=len(nums)*(len(nums)-1)//2
+        return total-res
