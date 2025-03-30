@@ -1,5 +1,3 @@
-from collections import defaultdict
-
 class Solution:
     def tupleSameProduct(self, nums):
         product_count = defaultdict(int)
