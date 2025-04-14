@@ -14,6 +14,7 @@ DSA
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/Shashank164/DSA/tree/master/1656-count-good-triplets) |
 | [2998-count-symmetric-integers](https://github.com/Shashank164/DSA/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/Shashank164/DSA/tree/master/3548-find-the-count-of-good-integers) |
 ## Hash Table
@@ -28,4 +29,8 @@ DSA
 |  |
 | ------- |
 | [2050-count-good-numbers](https://github.com/Shashank164/DSA/tree/master/2050-count-good-numbers) |
+## Array
+|  |
+| ------- |
+| [1656-count-good-triplets](https://github.com/Shashank164/DSA/tree/master/1656-count-good-triplets) |
 <!---LeetCode Topics End-->
