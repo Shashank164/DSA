@@ -34,6 +34,7 @@ DSA
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/Shashank164/DSA/tree/master/1656-count-good-triplets) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Shashank164/DSA/tree/master/2280-count-good-triplets-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -42,4 +43,28 @@ DSA
 |  |
 | ------- |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Shashank164/DSA/tree/master/3243-count-the-number-of-powerful-integers) |
+## Binary Search
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Shashank164/DSA/tree/master/2280-count-good-triplets-in-an-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Shashank164/DSA/tree/master/2280-count-good-triplets-in-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Shashank164/DSA/tree/master/2280-count-good-triplets-in-an-array) |
+## Segment Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Shashank164/DSA/tree/master/2280-count-good-triplets-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Shashank164/DSA/tree/master/2280-count-good-triplets-in-an-array) |
+## Ordered Set
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Shashank164/DSA/tree/master/2280-count-good-triplets-in-an-array) |
 <!---LeetCode Topics End-->
