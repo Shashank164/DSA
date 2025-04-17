@@ -34,6 +34,7 @@ DSA
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/Shashank164/DSA/tree/master/1656-count-good-triplets) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Shashank164/DSA/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Shashank164/DSA/tree/master/2280-count-good-triplets-in-an-array) |
 ## String
 |  |
