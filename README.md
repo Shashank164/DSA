@@ -8,6 +8,7 @@ DSA
 ## Math
 |  |
 | ------- |
+| [0797-rabbits-in-forest](https://github.com/Shashank164/DSA/tree/master/0797-rabbits-in-forest) |
 | [2050-count-good-numbers](https://github.com/Shashank164/DSA/tree/master/2050-count-good-numbers) |
 | [2998-count-symmetric-integers](https://github.com/Shashank164/DSA/tree/master/2998-count-symmetric-integers) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Shashank164/DSA/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -21,6 +22,7 @@ DSA
 ## Hash Table
 |  |
 | ------- |
+| [0797-rabbits-in-forest](https://github.com/Shashank164/DSA/tree/master/0797-rabbits-in-forest) |
 | [3548-find-the-count-of-good-integers](https://github.com/Shashank164/DSA/tree/master/3548-find-the-count-of-good-integers) |
 ## Combinatorics
 |  |
@@ -33,6 +35,7 @@ DSA
 ## Array
 |  |
 | ------- |
+| [0797-rabbits-in-forest](https://github.com/Shashank164/DSA/tree/master/0797-rabbits-in-forest) |
 | [1656-count-good-triplets](https://github.com/Shashank164/DSA/tree/master/1656-count-good-triplets) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Shashank164/DSA/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Shashank164/DSA/tree/master/2280-count-good-triplets-in-an-array) |
@@ -68,4 +71,8 @@ DSA
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/Shashank164/DSA/tree/master/2280-count-good-triplets-in-an-array) |
+## Greedy
+|  |
+| ------- |
+| [0797-rabbits-in-forest](https://github.com/Shashank164/DSA/tree/master/0797-rabbits-in-forest) |
 <!---LeetCode Topics End-->
