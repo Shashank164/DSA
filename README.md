@@ -25,6 +25,7 @@ DSA
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/Shashank164/DSA/tree/master/0797-rabbits-in-forest) |
 | [1500-count-largest-group](https://github.com/Shashank164/DSA/tree/master/1500-count-largest-group) |
+| [2915-count-of-interesting-subarrays](https://github.com/Shashank164/DSA/tree/master/2915-count-of-interesting-subarrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/Shashank164/DSA/tree/master/3548-find-the-count-of-good-integers) |
 ## Combinatorics
 |  |
@@ -41,6 +42,7 @@ DSA
 | [1656-count-good-triplets](https://github.com/Shashank164/DSA/tree/master/1656-count-good-triplets) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Shashank164/DSA/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Shashank164/DSA/tree/master/2280-count-good-triplets-in-an-array) |
+| [2915-count-of-interesting-subarrays](https://github.com/Shashank164/DSA/tree/master/2915-count-of-interesting-subarrays) |
 ## String
 |  |
 | ------- |
@@ -77,4 +79,8 @@ DSA
 |  |
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/Shashank164/DSA/tree/master/0797-rabbits-in-forest) |
+## Prefix Sum
+|  |
+| ------- |
+| [2915-count-of-interesting-subarrays](https://github.com/Shashank164/DSA/tree/master/2915-count-of-interesting-subarrays) |
 <!---LeetCode Topics End-->
