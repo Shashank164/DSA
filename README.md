@@ -43,6 +43,7 @@ DSA
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Shashank164/DSA/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Shashank164/DSA/tree/master/2280-count-good-triplets-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/Shashank164/DSA/tree/master/2915-count-of-interesting-subarrays) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Shashank164/DSA/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## String
 |  |
 | ------- |
